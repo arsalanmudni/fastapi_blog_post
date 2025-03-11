@@ -28,7 +28,8 @@ blog_post/
 
 ### 1. Clone the repository
 ```sh
-extract the blog_post.zip
+git clone https://github.com/arsalanmudni/fastapi_blog_post.git
+cd blog_post
 ```
 
 ### 2. Create a `.env` file
